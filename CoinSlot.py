@@ -1,3 +1,7 @@
+# Python 2.7
+# By rickvg - https://github.com/rickvg
+
+# Imports
 import socket
 import re
 
